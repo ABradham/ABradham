@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ABradham, a computer science student at Dartmouth College🌲
-- 🧪 In terms of languages, I'm comfortable working in Java ☕ and Python 🐍, but can also write a bit of C 🌊
-- 🌱 I’m currently learning C and the MERN (MongoDB, Express, React, and Node stack)
-- 📫 You can reach me via email (alphonso.p.bradham.24@dartmouth.edu), LinkedIn (www.linkedin.com/in/alphonso-bradham/), or via a dm on Instagram (@al.bradh12)
+- 👋 Hi, I’m @ABradham, a former CS student at Dartmouth College 🌲 
+- 🧪 In terms of languages, I'm comfortable working in Java ☕, Python 🐍, C 🌊, C++ ➕,  and JS/TS 🕸️
+- 🌱 Currently Learning Rust 🦀
+- 📫 You can reach me via email (bradhamalphonso@gmail.com) or LinkedIn (www.linkedin.com/in/alphonso-bradham/)
