@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @ABradham, a former CS student at Dartmouth College 🌲 
-- 🧪 In terms of languages, I'm comfortable working in Java ☕, Python 🐍, C 🌊, C++ ➕,  and JS/TS 🕸️
-- 🌱 Currently Learning Rust 🦀
-- 📫 You can reach me via email (bradhamalphonso@gmail.com) or LinkedIn (www.linkedin.com/in/alphonso-bradham/)
+ain't no such thig as halfway crooks
